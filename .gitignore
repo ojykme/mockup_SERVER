@@ -1,0 +1,5 @@
+node_modules/
+*.pem
+last_domain.txt
+.DS_Store
+*.log
